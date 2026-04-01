@@ -5,9 +5,9 @@
   "type": "commonjs",
   "scripts": {
     "start": "node hello-world.js",
-    "use-lodash": "node use-lodash.js",
-    "run-package": "node index.js",
-    "test": "node test.js"
+  "use-lodash": "node use-lodash.js",
+  "run-package": "node index.js",
+  "test": "node test.js"
   },
   "dependencies": {
     "@linclark/pkg": "^1.0.3",
