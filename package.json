@@ -9,6 +9,7 @@
     "run-package": "node index.js"
   },
   "dependencies": {
+    "@linclark/pkg": "^1.0.3",
     "lodash": "^4.17.23"
   },
   "repository": {
