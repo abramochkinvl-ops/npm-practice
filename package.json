@@ -2,18 +2,15 @@
   "name": "npm-practice",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-    "start": "node hello-world.js"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
   "type": "commonjs",
+  "scripts": {
+    "start": "node hello-world.js",
+    "use-lodash": "node use-lodash.js",
+    "run-package": "node index.js"
+  },
   "dependencies": {
     "lodash": "^4.17.23"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/abramochkinvl-ops/npm-practice.git"
@@ -21,5 +18,7 @@
   "bugs": {
     "url": "https://github.com/abramochkinvl-ops/npm-practice/issues"
   },
-  "homepage": "https://github.com/abramochkinvl-ops/npm-practice#readme"
+  "homepage": "https://github.com/abramochkinvl-ops/npm-practice#readme",
+  "author": "",
+  "license": "ISC"
 }
